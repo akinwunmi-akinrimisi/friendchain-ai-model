@@ -1,0 +1,122 @@
+[
+    {
+      "userId": "alex.base",
+      "basename": "alex.base",
+      "bio": "Tech enthusiast and AI developer. Love sharing insights on machine learning and blockchain. Based in SF.",
+      "posts": [
+        "Just attended a Base hackathon workshop! Excited for Web3 innovation. #Base #Web3",
+        "Working on a new AI model with DistilBERT. Any tips for fine-tuning? #AI #MachineLearning",
+        "Blockchain is the future of identity. Loving Basenames like alex.base! #Blockchain",
+        "Coffee and coding all day. What’s your favorite IDE? #DeveloperLife",
+        "Shared a tutorial on Hugging Face Transformers. Check it out! #AI"
+      ]
+    },
+    {
+      "userId": "sophia.base",
+      "basename": "sophia.base",
+      "bio": "Crypto artist and NFT creator. Passionate about digital art and decentralization. NYC vibes.",
+      "posts": [
+        "Minted my latest NFT on Base Sepolia! Check it out. #NFT #Base",
+        "Exploring gasless transactions with Smart Wallet. Game-changer! #Web3",
+        "Art is freedom. Creating a new piece inspired by Basenames. #CryptoArt",
+        "Attending an NFT gallery event tonight. Who’s in NYC? #NFTCommunity",
+        "Just sold an artwork for 100 FRIEND tokens! #CryptoArtist"
+      ]
+    },
+    {
+      "userId": "liam.base",
+      "basename": "liam.base",
+      "bio": "Gamer and Web3 enthusiast. Building decentralized gaming platforms. Always online.",
+      "posts": [
+        "Testing FriendChain MVP. Trivia games on blockchain are dope! #Web3Gaming",
+        "Earned an NFT badge in a Base game. Displaying liam.base proudly! #NFT",
+        "Smart Wallet makes gaming seamless. No gas fees! #Base",
+        "Who’s up for a Web3 gaming tournament? #GamerLife",
+        "Shared a guide on Base Sepolia testnet. Let’s build! #Web3"
+      ]
+    },
+    {
+      "userId": "emma.base",
+      "basename": "emma.base",
+      "bio": "Foodie and blockchain advocate. Sharing recipes and crypto tips. London-based.",
+      "posts": [
+        "Cooked a vegan pasta dish tonight. Recipe coming soon! #Foodie",
+        "Using emma.base as my identity on Base. So cool! #Basenames",
+        "Gasless NFTs are the future. Minted one for free! #Web3",
+        "Exploring decentralized marketplaces for food products. #Blockchain",
+        "Favorite cuisine? Mine’s Italian! #FoodLovers"
+      ]
+    },
+    {
+      "userId": "noah.base",
+      "basename": "noah.base",
+      "bio": "Music producer and DeFi fan. Creating beats and staking tokens. LA vibes.",
+      "posts": [
+        "Dropped a new track inspired by Web3. Listen now! #Music",
+        "Staked 100 FRIEND tokens in FriendChain. Let’s play! #DeFi",
+        "Basenames like noah.base make crypto fun. #Web3",
+        "Collaborating on a decentralized music platform. #Blockchain",
+        "What’s your favorite music genre? Mine’s EDM! #MusicLovers"
+      ]
+    },
+    {
+      "userId": "olivia.base",
+      "basename": "olivia.base",
+      "bio": "Fitness coach and crypto investor. Sharing workouts and Web3 insights. Miami sun.",
+      "posts": [
+        "Morning workout done! Try my HIIT routine. #Fitness",
+        "Joined FriendChain with olivia.base. Trivia is addicting! #Web3",
+        "Gasless transactions are a lifesaver. Thanks, Smart Wallet! #Base",
+        "Investing in DeFi projects. Any recommendations? #Crypto",
+        "Post-workout smoothie recipe: banana, spinach, protein! #HealthyLiving"
+      ]
+    },
+    {
+      "userId": "ethan.base",
+      "basename": "ethan.base",
+      "bio": "Software engineer and Base advocate. Building dApps and learning Solidity.",
+      "posts": [
+        "Deployed my first smart contract on Base Sepolia! #Solidity",
+        "Using ethan.base for all my Web3 apps. #Basenames",
+        "FriendChain’s AI questions are spot-on! #Web3Gaming",
+        "Learning about ERC-4337 for Smart Wallet. Mind blown! #Web3",
+        "Any Solidity devs here? Let’s connect! #Developer"
+      ]
+    },
+    {
+      "userId": "ava.base",
+      "basename": "ava.base",
+      "bio": "Fashion blogger and NFT collector. Mixing style with blockchain. Paris chic.",
+      "posts": [
+        "New outfit post: Parisian vibes! #Fashion",
+        "Minted an NFT with ava.base on it. So unique! #NFT",
+        "Smart Wallet makes collecting NFTs easy. #Web3",
+        "Exploring decentralized fashion marketplaces. #Blockchain",
+        "Favorite designer? Mine’s Chanel! #FashionLovers"
+      ]
+    },
+    {
+      "userId": "mason.base",
+      "basename": "mason.base",
+      "bio": "Entrepreneur and Web3 builder. Creating startups on Base. Austin energy.",
+      "posts": [
+        "Pitching a Web3 startup at Base hackathon! #Entrepreneur",
+        "Using mason.base for my dApp’s identity. #Basenames",
+        "FriendChain’s gasless NFTs are a game-changer. #Web3",
+        "Building a decentralized voting app. Ideas? #Blockchain",
+        "Coffee shops in Austin for coding? #StartupLife"
+      ]
+    },
+    {
+      "userId": "isabella.base",
+      "basename": "isabella.base",
+      "bio": "Travel vlogger and crypto nomad. Exploring the world with Web3. No fixed address.",
+      "posts": [
+        "Vlogging from Tokyo! Check my latest video. #Travel",
+        "Using isabella.base on FriendChain. Love the trivia! #Web3",
+        "Gasless transactions make travel easier. #SmartWallet",
+        "Exploring decentralized travel platforms. #Blockchain",
+        "Favorite destination? Mine’s Japan! #TravelLovers"
+      ]
+    }
+  ]
